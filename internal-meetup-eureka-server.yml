@@ -1,4 +1,6 @@
 spring:
+  application:
+    name: internal-meetup-eureka-server
   profiles: dev
 server:
   port: 8761
