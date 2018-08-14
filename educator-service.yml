@@ -1,6 +1,5 @@
 spring:
   application:
     name: educator-service
-  profiles: dev
 server:
   port: 8082
